@@ -1,5 +1,7 @@
 package PrototypeDesignPattern.Shadow;
 
+
+//https://medium.com/geekculture/overview-of-prototype-desing-pattern-3eafaf006fde
 public class Client {
 
     public static void main(String[] args)  throws CloneNotSupportedException
@@ -16,8 +18,17 @@ public class Client {
         departmenet2.employee.salary=40000;
         System.out.println(departmenet2);
 
+        //Created one object with two references
+        System.out.println(departmenet1);
+
+        System.out.println(departmenet1.hashCode());
+        System.out.println(departmenet2.hashCode());
+
         System.out.println("--------------------------------");
 
+
+
+        System.out.println(departmenet1==departmenet2);
 
 
 
