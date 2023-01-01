@@ -15,12 +15,17 @@ public class Client {
 
        System.out.println("-------------------------------------------------");
        Vehicle vehicle2=vehicle1.clone();
+       vehicle2.getVehicleList().remove(0);
 
        System.out.println(vehicle2);
 
 
-       System.out.println(vehicle1==vehicle2);
-       //System.out.println(vehicle1.equals(vehicle2));
+       //TO check if two object are different
+       System.out.println("vehicle1"+vehicle1);
+       System.out.println("vehicle2"+vehicle2);
+
+
+      // System.out.println(vehicle1==vehicle2);
 
    }
 
