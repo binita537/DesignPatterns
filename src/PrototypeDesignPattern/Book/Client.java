@@ -1,4 +1,4 @@
-package PrototypeDesignepatternBook;
+package PrototypeDesignPattern.Book;
 
 public class Client {
 

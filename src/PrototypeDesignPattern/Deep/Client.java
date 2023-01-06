@@ -1,4 +1,4 @@
-package PrototypeVehicle;
+package PrototypeDesignPattern.Deep;
 
 
 //https://www.youtube.com/watch?v=MYe5NSmFU_c&t=117s

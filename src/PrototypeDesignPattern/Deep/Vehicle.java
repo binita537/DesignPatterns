@@ -1,4 +1,4 @@
-package PrototypeVehicle;
+package PrototypeDesignPattern.Deep;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package PrototypeDesignepatternBook;
+package PrototypeDesignPattern.Book;
 
 import java.util.ArrayList;
 import java.util.List;

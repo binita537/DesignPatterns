@@ -1,4 +1,4 @@
-package PrototypeDesignepatternBook;
+package PrototypeDesignPattern.Book;
 
 //https://www.youtube.com/watch?v=nZ76x13Nm8Q&t=5s
 
